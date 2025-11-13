@@ -41,3 +41,24 @@ background-color: rgb(195, 112, 24);
             color: #fff;
             text-decoration: none;
           }
+.iklan{
+display: flex;
+box-shadow: none;
+margin: 30px;
+}
+.iklan img{
+width:380px;
+height:270px;
+border-radius:15px ;
+}
+.kategori{
+display: flex;
+box-shadow: none;
+margin: 30px;
+justify-content: center;
+}
+.kategori img{
+height:80px;
+width:80px;
+border-radius:100%;
+}
